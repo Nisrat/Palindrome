@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    display: -moz-grid-group;
+    place-items: center;
+    text-align: center;
+    background-image: url(palin1.jpg);
+    height: 10vh;
+    background-size: cover;
+    background-position: center;
+    align-items: middle;
+}
+
+.container {
+    
+    margin-top: 13%;
+    width: 50%;
+    min-height: 120px;
+    background: #34ada3;
+    color: #fff;
+    border: 5px solid rgb(3, 3, 70);
+    margin-left: 25%;
+    
+}
+
+
